@@ -1,4 +1,4 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643514591/5948/bongo_blob.gif" width="25"/>
 
 I'm [**Kkirteeman**](https://gazijarin.com), a data scientist in India.
 
