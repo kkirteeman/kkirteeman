@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643514591/5948/bongo_blob.gif" width="25"/>
 
-I'm [**Kkirteeman**](https://gazijarin.com), a data scientist in India.
+I'm [**Kkirteeman**](), a data scientist in India.
 
 I currently study at [**@IIT Madras**](https://github.com/bsc-iitm), where I’m pursuing Data Science. I’m building my foundation by working on projects to apply what I learn.
 
