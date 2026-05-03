@@ -4,7 +4,7 @@ I'm [**Kkirteeman**](), a data scientist in India.
 
 I currently study at [**@IIT Madras**](https://github.com/bsc-iitm), where I’m pursuing Data Science. I’m building my foundation by working on projects to apply what I learn.
 
-I'm fascinated by using data to solve real-world problems and uncover meaningful insights. I’m continuously improving my skills in machine learning, data analysis, and problem-solving.
+I'm fascinated by using data to solve real world problems and uncover meaningful insights. I’m continuously improving my skills in machine learning, data analysis, and problem solving.
 
 Outside of academics, I'm interested in following the developments of technology and AI. I play [chess](https://www.chess.com/member/catragee).
 
