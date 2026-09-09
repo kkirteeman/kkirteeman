@@ -1,12 +1,12 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643514591/5948/bongo_blob.gif" width="25"/>
 
-I'm [**Kkirteeman**](), a data science student in India.
+I'm **Kkirteeman**, a data science student in India.
 
-I currently study at [**@IIT Madras**](https://github.com/bsc-iitm), where I’m pursuing Data Science. I’m building my foundation by working on projects to apply what I learn.
+I currently study at **@IIT Madras**, where I’m pursuing Data Science. I’m building my foundation by working on projects to apply what I learn.
 
 I'm fascinated by using data to solve real world problems and uncover meaningful insights. I’m continuously improving my skills in machine learning, data analysis, and problem solving.
 
-Outside of academics, I'm interested in following the developments of technology and AI. I play [chess](https://www.chess.com/member/catragee).
+Outside of academics, I'm interested in following the developments of technology and AI. I play chess.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/kkirteeman/)
